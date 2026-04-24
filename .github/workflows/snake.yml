@@ -12,18 +12,21 @@ jobs:
       contents: write
 
     steps:
-      - name: Generate all-green custom snake SVG
+      - name: Generate custom snake SVG
         run: |
           python3 << 'PYEOF'
-          import os
+          import os, random
 
           COLS, ROWS = 53, 7
           CELL, GAP, PAD = 11, 3, 10
-          BG    = "#0d1117"
-          GREEN = "#39d353"
-          BODY  = "#ffffff"
-          DARK  = "#0d1117"
-          DUR   = 22
+          BG   = "#0d1117"
+          # GitHub contribution graph shades: black → super light → light → medium → dark green
+          SHADES  = ["#0d1117", "#0e4429", "#006d32", "#26a641", "#39d353"]
+          WEIGHTS = [0.12,      0.22,      0.28,      0.23,      0.15]
+          BODY    = "#ffffff"   # white snake
+          DARK    = "#0d1117"   # eaten cell goes black
+          DUR     = 24
+          BODY_LEN = 7
 
           W = COLS * (CELL + GAP) - GAP + PAD * 2
           H = ROWS * (CELL + GAP) - GAP + PAD * 2
@@ -31,14 +34,14 @@ jobs:
           def cx(c): return PAD + c * (CELL + GAP)
           def cy(r): return PAD + r * (CELL + GAP)
 
-          # Zigzag path covers every single cell
-          path = [
-              (c, r)
-              for c in range(COLS)
-              for r in (range(ROWS) if c % 2 == 0 else range(ROWS - 1, -1, -1))
-          ]
+          # Horizontal path: left→right across each row, top to bottom
+          path = [(c, r) for r in range(ROWS) for c in range(COLS)]
           N = len(path)  # 371 cells
-          BODY_LEN = 7   # snake body length in cells
+
+          # Assign each cell a random green shade (seeded for consistency)
+          random.seed(42)
+          cell_color = {(c, r): random.choices(SHADES, weights=WEIGHTS)[0]
+                        for r in range(ROWS) for c in range(COLS)}
 
           parts = [
               f'<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 {W} {H}">',
@@ -46,12 +49,13 @@ jobs:
           ]
 
           for i, (c, r) in enumerate(path):
-              t_eat  = i / N
-              t_tail = min((i + BODY_LEN) / N, 0.99998)
+              t_eat   = i / N
+              t_tail  = min((i + BODY_LEN) / N, 0.99998)
               t_reset = 0.99999
+              initial = cell_color[(c, r)]
 
-              # green → white (snake passes over) → black (eaten) → green (loop reset)
-              vals   = f"{GREEN};{BODY};{DARK};{GREEN}"
+              # initial shade → white (snake over it) → black (eaten) → initial (loop reset)
+              vals   = f"{initial};{BODY};{DARK};{initial}"
               ktimes = f"0;{t_eat:.5f};{t_tail:.5f};{t_reset}"
 
               parts.append(
@@ -61,7 +65,7 @@ jobs:
                   f'</rect>'
               )
 
-          # Animated snake head (white circle moves along the path)
+          # White snake head moving horizontally across rows
           xs  = ";".join(str(cx(c) + CELL // 2) for c, r in path) + f";{cx(path[0][0]) + CELL // 2}"
           ys  = ";".join(str(cy(r) + CELL // 2) for c, r in path) + f";{cy(path[0][1]) + CELL // 2}"
           kts = ";".join(f"{i / N:.5f}" for i in range(N)) + ";1.0"
