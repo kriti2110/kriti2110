@@ -27,7 +27,7 @@
 <br/><br/>
 
 <!-- ── CONTRIBUTIONS ONLY (no PRs, no streak) ── -->
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=kriti2110&show_icons=true&hide=prs,issues&hide_rank=false&hide_border=true&bg_color=0d1117&title_color=39d353&icon_color=39d353&text_color=e6edf3&count_private=true&include_all_commits=true&custom_title=GitHub+Contributions" alt="Contributions"/>
+<img height="160" src="https://github-readme-stats.vercel.app/api?username=kriti2110&show_icons=true&hide=prs,issues&hide_border=true&bg_color=0d1117&title_color=39d353&icon_color=39d353&text_color=e6edf3&count_private=true" alt="Contributions"/>
 &nbsp;
 <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kriti2110&hide_border=true&layout=compact&langs_count=6&bg_color=0d1117&title_color=39d353&text_color=e6edf3" alt="Most Used Languages"/>
 
