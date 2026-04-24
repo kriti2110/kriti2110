@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- ── HEADER BANNER ── -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:1c2f45,100:0d1b2a&height=160&text=Kriti+Raj&fontSize=68&fontColor=e6edf3&desc=AI+%26+ML+Engineer+%C2%B7+KIIT+University&descSize=20&descAlignY=72&descColor=8b949e"/>
+<img width="100%" src="banner.svg" alt="Kriti Raj — AI & ML Engineer"/>
 
 <br/>
 
