@@ -51,11 +51,7 @@ Currently working on **early disease detection** from clinical time-series data 
 ---
 
 <div align="center">
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/kriti2110/kriti2110/output/github-contribution-grid-snake-dark.svg"/>
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/kriti2110/kriti2110/output/github-contribution-grid-snake.svg"/>
-  <img alt="contribution-snake" src="https://raw.githubusercontent.com/kriti2110/kriti2110/output/github-contribution-grid-snake-dark.svg"/>
-</picture>
+<img src="profile-3d-contrib/profile-night-green.svg" width="100%" alt="3D Contribution Chart"/>
 </div>
 
 ---
