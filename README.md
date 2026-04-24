@@ -5,6 +5,11 @@
 
 <br/>
 
+<!-- ── TYPING ANIMATION ── -->
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=14&duration=3000&pause=800&color=39d353&center=true&vCenter=true&width=700&lines=Building+production-ready+ML+systems+%F0%9F%A4%96;Computer+Vision+%7C+NLP+%7C+Deep+Learning;Turning+raw+data+into+decisions+that+matter;B.Tech+CSE+(AI%2FML)+%40+KIIT+University;Code.+Train.+Deploy.+Repeat.+%F0%9F%9A%80" alt="Typing SVG"/>
+
+<br/><br/>
+
 <!-- ── BADGE ROW 1 ── -->
 <img src="https://img.shields.io/badge/%E2%86%92_PORTFOLIO-3d4451?style=flat-square"/>
 <a href="https://kriti2110.github.io"><img src="https://img.shields.io/badge/kriti2110.github.io-1e6ebb?style=flat-square"/></a>
@@ -42,7 +47,7 @@ Currently working on **early disease detection** from clinical time-series data 
 </td>
 <td width="40%" valign="top">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kriti2110&hide_border=true&layout=compact&langs_count=6&bg_color=161b22&title_color=1e6ebb&text_color=e6edf3" alt="Most Used Languages"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kriti2110&hide_border=true&layout=compact&langs_count=6&bg_color=161b22&title_color=39d353&text_color=e6edf3" alt="Most Used Languages"/>
 
 </td>
 </tr>
@@ -50,8 +55,20 @@ Currently working on **early disease detection** from clinical time-series data 
 
 ---
 
+<!-- ── GITHUB STATS ROW ── -->
 <div align="center">
-<img src="profile-3d-contrib/profile-south-season-animate.svg" width="100%" alt="3D Contribution Chart"/>
+
+<img height="160" src="https://github-readme-stats.vercel.app/api?username=kriti2110&show_icons=true&hide_border=true&bg_color=161b22&title_color=39d353&icon_color=39d353&text_color=e6edf3&count_private=true" alt="GitHub Stats"/>
+&nbsp;
+<img height="160" src="https://streak-stats.demolab.com?user=kriti2110&hide_border=true&background=161b22&stroke=21262d&ring=39d353&fire=39d353&currStreakNum=e6edf3&sideNums=e6edf3&currStreakLabel=39d353&sideLabels=8b949e&dates=8b949e" alt="Streak Stats"/>
+
+</div>
+
+---
+
+<!-- ── GREEN SNAKE ── -->
+<div align="center">
+<img src="https://raw.githubusercontent.com/kriti2110/kriti2110/output/snake-green.svg" width="100%" alt="Green Contribution Snake"/>
 </div>
 
 ---
@@ -83,6 +100,7 @@ Deep Learning · NLP · Transformers · AWS EC2 · Pandas · NumPy · Docker
 
 ---
 
+<!-- ── ACTIVITY GRAPH ── -->
 <div align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=kriti2110&bg_color=0d1117&color=1e6ebb&line=1e6ebb&point=e6edf3&area=true&hide_border=true&area_color=1e3a5f" alt="Activity Graph"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=kriti2110&bg_color=0d1117&color=39d353&line=39d353&point=e6edf3&area=true&hide_border=true&area_color=0e4429" alt="Activity Graph"/>
 </div>
