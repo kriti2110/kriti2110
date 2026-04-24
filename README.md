@@ -3,7 +3,10 @@
 <!-- ── HEADER BANNER ── -->
 <img width="100%" src="banner.svg" alt="Kriti Raj — AI & ML Engineer"/>
 
-<br/>
+<!-- ── TYPING ANIMATION ── -->
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=14&duration=3000&pause=800&color=39d353&center=true&vCenter=true&width=700&lines=Building+production-ready+ML+systems+%F0%9F%A4%96;Computer+Vision+%7C+NLP+%7C+Deep+Learning;Turning+raw+data+into+decisions+that+matter;B.Tech+CSE+(AI%2FML)+%40+KIIT+University;Code.+Train.+Deploy.+Repeat.+%F0%9F%9A%80" alt="Typing SVG"/>
+
+<br/><br/>
 
 <!-- ── BADGE ROW 1 ── -->
 <img src="https://img.shields.io/badge/%E2%86%92_PORTFOLIO-3d4451?style=flat-square"/>
@@ -23,8 +26,10 @@
 
 <br/><br/>
 
-<!-- ── CONTRIBUTIONS COUNT ── -->
-<img src="https://github-readme-stats.vercel.app/api?username=kriti2110&show_icons=true&hide=prs,issues,contribs&hide_rank=true&hide_border=true&bg_color=0d1117&title_color=39d353&icon_color=39d353&text_color=e6edf3&count_private=true&custom_title=Contributions" alt="Contributions"/>
+<!-- ── CONTRIBUTIONS ONLY (no PRs, no streak) ── -->
+<img height="160" src="https://github-readme-stats.vercel.app/api?username=kriti2110&show_icons=true&hide=prs,issues&hide_rank=false&hide_border=true&bg_color=0d1117&title_color=39d353&icon_color=39d353&text_color=e6edf3&count_private=true&custom_title=GitHub+Contributions" alt="Contributions"/>
+&nbsp;
+<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kriti2110&hide_border=true&layout=compact&langs_count=6&bg_color=0d1117&title_color=39d353&text_color=e6edf3" alt="Most Used Languages"/>
 
 </div>
 
@@ -37,28 +42,13 @@
 
 ---
 
-<table>
-<tr>
-<td width="60%" valign="top">
-
 **I build ML systems that deploy to production, not just live in notebooks.**
 
 Currently working on **early disease detection** from clinical time-series data and building **computer vision pipelines** with end-to-end deployment on AWS.
 
-<ul>
-<li>End-to-end ML — from raw data ingestion to production REST API</li>
-<li>Accuracy without scalability is just a prototype — I build for both</li>
-<li>B.Tech CSE (AI/ML) @ KIIT · Building systems that actually matter</li>
-</ul>
-
-</td>
-<td width="40%" valign="top">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kriti2110&hide_border=true&layout=compact&langs_count=6&bg_color=161b22&title_color=39d353&text_color=e6edf3" alt="Most Used Languages"/>
-
-</td>
-</tr>
-</table>
+- End-to-end ML — from raw data ingestion to production REST API
+- Accuracy without scalability is just a prototype — I build for both
+- B.Tech CSE (AI/ML) @ KIIT · Building systems that actually matter
 
 ---
 

@@ -21,8 +21,8 @@ jobs:
           CELL, GAP, PAD = 11, 3, 10
           BG    = "#0d1117"
           GREEN = "#39d353"
-          BODY  = "#7ee787"
-          DARK  = "#161b22"
+          BODY  = "#ffffff"
+          DARK  = "#0d1117"
           DUR   = 22
 
           W = COLS * (CELL + GAP) - GAP + PAD * 2
@@ -50,7 +50,7 @@ jobs:
               t_tail = min((i + BODY_LEN) / N, 0.99998)
               t_reset = 0.99999
 
-              # green → body-green (snake on it) → dark (eaten) → green (loop reset)
+              # green → white (snake passes over) → black (eaten) → green (loop reset)
               vals   = f"{GREEN};{BODY};{DARK};{GREEN}"
               ktimes = f"0;{t_eat:.5f};{t_tail:.5f};{t_reset}"
 
@@ -61,13 +61,13 @@ jobs:
                   f'</rect>'
               )
 
-          # Animated snake head (bright circle moves along the path)
+          # Animated snake head (white circle moves along the path)
           xs  = ";".join(str(cx(c) + CELL // 2) for c, r in path) + f";{cx(path[0][0]) + CELL // 2}"
           ys  = ";".join(str(cy(r) + CELL // 2) for c, r in path) + f";{cy(path[0][1]) + CELL // 2}"
           kts = ";".join(f"{i / N:.5f}" for i in range(N)) + ";1.0"
 
           parts.append(
-              f'<circle r="{CELL // 2 + 2}" fill="{BODY}" stroke="{BG}" stroke-width="2">'
+              f'<circle r="{CELL // 2 + 2}" fill="#ffffff" stroke="{BG}" stroke-width="2">'
               f'<animate attributeName="cx" values="{xs}" keyTimes="{kts}" dur="{DUR}s" repeatCount="indefinite"/>'
               f'<animate attributeName="cy" values="{ys}" keyTimes="{kts}" dur="{DUR}s" repeatCount="indefinite"/>'
               f'</circle>'
