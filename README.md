@@ -1,164 +1,176 @@
-<!-- ANIMATED HEADER WAVE -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0A3323,50:105666,100:839958&height=230&section=header&text=%E2%9C%A6%20Kriti%20Raj%20%E2%9C%A6&fontSize=55&fontColor=F7F4D5&animation=fadeIn&fontAlignY=38&desc=AI%20%2F%20ML%20Engineer%20%7C%20Creative%20Developer%20%7C%20KIIT%20Bhubaneswar&descAlignY=60&descSize=16&descColor=D3C8B4" />
-
 <div align="center">
 
-<!-- TYPING ANIMATION (Press Start 2P matches the portfolio font!) -->
-<img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=11&duration=2500&pause=800&color=D3968C&center=true&vCenter=true&width=700&lines=AI+%2F+ML+Engineer+in+the+making+%E2%9C%A8;Building+intelligent+systems...;Creative+Dev+%7C+Y2K+Aesthetic+%F0%9F%96%A5%EF%B8%8F;KIIT+Bhubaneswar+%7C+CSE+%28AI%2FML%29;let%27s+build+something+cool%21+%E2%9C%A6" alt="Typing SVG" />
+<!-- ═══════════════════ HEADER ═══════════════════ -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,30:0f1923,65:0f3460,100:533483&height=240&section=header&text=KRITI+RAJ&fontSize=72&fontColor=ffffff&animation=twinkling&fontAlignY=36&desc=AI+%26+ML+ENGINEER+%7C+KIIT+BHUBANESWAR&descAlignY=58&descSize=20&descColor=58A6FF"/>
+
+<!-- TYPING ANIMATION -->
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=15&duration=3000&pause=800&color=58A6FF&center=true&vCenter=true&width=720&lines=Building+production-ready+ML+systems+%F0%9F%A4%96;Computer+Vision+%7C+NLP+%7C+Deep+Learning+%7C+MLOps;Turning+raw+data+into+decisions+that+matter+%F0%9F%93%8A;B.Tech+CSE+(AI%2FML)+%40+KIIT+University+%F0%9F%8E%93;Code.+Train.+Deploy.+Repeat.+%F0%9F%9A%80" alt="Typing SVG"/>
+
+<br/>
+
+<!-- SOCIAL BADGES -->
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kriti-raj-5b398236a)
+[![Portfolio](https://img.shields.io/badge/Portfolio-FF4500?style=for-the-badge&logo=googlechrome&logoColor=white)](https://kriti2110.github.io)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kriti.112735@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-161B22?style=for-the-badge&logo=github&logoColor=white)](https://github.com/kriti2110)
+
+<br/>
+
+<!-- SYSTEM STATUS -->
+![Status](https://img.shields.io/badge/%E2%97%89%20STATUS-ONLINE-00d084?style=flat-square)
+&nbsp;
+![Role](https://img.shields.io/badge/ROLE-AI%2FML%20ENGINEER-58A6FF?style=flat-square)
+&nbsp;
+![Open](https://img.shields.io/badge/OPEN%20TO-INTERNSHIPS-7ee787?style=flat-square)
+&nbsp;
+[![Views](https://komarev.com/ghpvc/?username=kriti2110&color=58A6FF&style=flat-square&label=PROFILE+VIEWS)](https://github.com/kriti2110)
+
+</div>
+
+<br/>
+
+<!-- ═══════════════════ ABOUT + STATS ═══════════════════ -->
+<table>
+<tr>
+<td width="52%" valign="top">
+
+<h3><code>⟨/⟩ SYSTEM PROFILE</code></h3>
+
+<pre>
+$ ./initialize_system.sh
+
+[BOOT] Loading Kriti Raj profile...
+[OK]   Name     ▸  Kriti Raj
+[OK]   Role     ▸  AI/ML Engineer
+[OK]   Degree   ▸  B.Tech CSE (AI/ML)
+[OK]   Uni      ▸  KIIT University, Bhubaneswar
+[OK]   Focus    ▸  ML Systems | CV | NLP | MLOps
+[OK]   Status   ▸  Available for Internships
+[DONE] System online. Awaiting instructions.
+
+$ ls projects/
+  SolarVerse/   DualFusion/   NEO_SEPSIS/
+
+$ cat mission.txt
+Building production-ready ML systems
+that scale, deploy, and solve real problems.
+</pre>
+
+<ul>
+<li>🤖 End-to-end ML pipeline architecture</li>
+<li>🔭 Research: CV + NLP multi-modal fusion</li>
+<li>🌱 Mastering MLOps, AWS, distributed training</li>
+<li>⚡ My portfolio runs as a Y2K Retro OS!</li>
+</ul>
+
+</td>
+<td width="48%" valign="top" align="center">
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kriti2110&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58A6FF&text_color=8b949e&langs_count=8" alt="Top Languages"/>
 
 <br/><br/>
 
-<!-- PROFILE BADGES -->
-[![Profile Views](https://komarev.com/ghpvc/?username=kriti2110&color=839958&style=flat-square&label=profile+views)](https://github.com/kriti2110)
-&nbsp;
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A3323?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kriti-raj-5b398236a)
-&nbsp;
-[![Portfolio](https://img.shields.io/badge/-Portfolio-105666?style=flat-square&logo=googlechrome&logoColor=white)](https://kriti2110.github.io)
-&nbsp;
-[![Email](https://img.shields.io/badge/-Email-D3968C?style=flat-square&logo=gmail&logoColor=white)](mailto:hridambiswas2005@gmail.com)
+<img src="https://github-readme-stats.vercel.app/api?username=kriti2110&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58A6FF&icon_color=7ee787&text_color=8b949e&count_private=true" alt="GitHub Stats"/>
 
-</div>
+</td>
+</tr>
+</table>
 
----
+<br/>
 
-## 👾 About Me
-
-<img align="right" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="185" alt="coding gif"/>
-
-```yaml
-name    : Kriti Raj
-role    : AI / ML Engineer
-uni     : KIIT University, Bhubaneswar
-degree  : B.Tech CSE — Artificial Intelligence & ML
-focus   :
-  - Machine Learning & Deep Learning
-  - Computer Vision & Natural Language Processing
-  - Creative UI/UX (Y2K Retro Aesthetic ✦)
-building: Y2K Retro OS Portfolio → React + Three.js
-fun_fact: My portfolio is a fake operating system 🖥️
-status  : always_learning 🚀
-```
-
-<br clear="right"/>
-
----
-
-## 🚀 What I'm Building
-
-- 🔭 **[kriti2110.github.io](https://kriti2110.github.io)** — Y2K Retro OS themed portfolio with 3D page transitions & mini-games
-- 🤖 Exploring **Generative AI** & **Transformer architectures**
-- 🎨 Blending **pixel art aesthetics** with **modern web technologies**
-- 🎮 Built **Star Catcher** & **Memory Match** games *inside* my portfolio
-- 💬 Ask me about **Python**, **React**, **ML models**, or **CSS animations**
-
----
-
-## 🛠️ Tech Stack
-
+<!-- ═══════════════════ STREAK ═══════════════════ -->
 <div align="center">
 
-**⚙️ AI / Machine Learning**
-
-![Python](https://img.shields.io/badge/Python-0A3323?style=for-the-badge&logo=python&logoColor=F7F4D5)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-105666?style=for-the-badge&logo=tensorflow&logoColor=F7F4D5)
-![PyTorch](https://img.shields.io/badge/PyTorch-0A3323?style=for-the-badge&logo=pytorch&logoColor=F7F4D5)
-![Scikit Learn](https://img.shields.io/badge/Scikit--Learn-105666?style=for-the-badge&logo=scikit-learn&logoColor=F7F4D5)
-![NumPy](https://img.shields.io/badge/NumPy-0A3323?style=for-the-badge&logo=numpy&logoColor=F7F4D5)
-![Pandas](https://img.shields.io/badge/Pandas-105666?style=for-the-badge&logo=pandas&logoColor=F7F4D5)
-![OpenCV](https://img.shields.io/badge/OpenCV-839958?style=for-the-badge&logo=opencv&logoColor=F7F4D5)
-![Jupyter](https://img.shields.io/badge/Jupyter-D3968C?style=for-the-badge&logo=jupyter&logoColor=white)
-
-**🌐 Web & Creative Dev**
-
-![React](https://img.shields.io/badge/React-0A3323?style=for-the-badge&logo=react&logoColor=F7F4D5)
-![JavaScript](https://img.shields.io/badge/JavaScript-105666?style=for-the-badge&logo=javascript&logoColor=F7F4D5)
-![Three.js](https://img.shields.io/badge/Three.js-0A3323?style=for-the-badge&logo=three.js&logoColor=F7F4D5)
-![HTML5](https://img.shields.io/badge/HTML5-839958?style=for-the-badge&logo=html5&logoColor=F7F4D5)
-![CSS3](https://img.shields.io/badge/CSS3-105666?style=for-the-badge&logo=css3&logoColor=F7F4D5)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind-0A3323?style=for-the-badge&logo=tailwindcss&logoColor=F7F4D5)
-![Framer Motion](https://img.shields.io/badge/Framer-105666?style=for-the-badge&logo=framer&logoColor=F7F4D5)
-![Vite](https://img.shields.io/badge/Vite-839958?style=for-the-badge&logo=vite&logoColor=F7F4D5)
-
-**🔧 Dev Tools**
-
-![Git](https://img.shields.io/badge/Git-0A3323?style=for-the-badge&logo=git&logoColor=F7F4D5)
-![GitHub](https://img.shields.io/badge/GitHub-105666?style=for-the-badge&logo=github&logoColor=F7F4D5)
-![VS Code](https://img.shields.io/badge/VS%20Code-0A3323?style=for-the-badge&logo=visualstudiocode&logoColor=F7F4D5)
-![Figma](https://img.shields.io/badge/Figma-839958?style=for-the-badge&logo=figma&logoColor=F7F4D5)
-![Linux](https://img.shields.io/badge/Linux-105666?style=for-the-badge&logo=linux&logoColor=F7F4D5)
+<img src="https://streak-stats.demolab.com?user=kriti2110&theme=transparent&hide_border=true&background=0d1117&stroke=21262d&ring=58A6FF&fire=FF4500&currStreakNum=ffffff&sideNums=8b949e&currStreakLabel=58A6FF&sideLabels=8b949e&dates=8b949e" alt="Streak Stats"/>
 
 </div>
 
----
+<br/>
 
-## 📊 GitHub Analytics
-
-<div align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=kriti2110&show_icons=true&count_private=true&hide_border=true&bg_color=0A3323&title_color=F7F4D5&text_color=839958&icon_color=D3968C" />
-&nbsp;&nbsp;
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kriti2110&layout=compact&hide_border=true&bg_color=0A3323&title_color=F7F4D5&text_color=839958&langs_count=8" />
-
-</div>
-
-<div align="center">
-
-<img src="https://streak-stats.demolab.com?user=kriti2110&hide_border=true&stroke=839958&ring=D3968C&fire=D3968C&currStreakNum=F7F4D5&sideNums=F7F4D5&currStreakLabel=839958&sideLabels=839958&dates=839958&background=0A3323" />
-
-</div>
-
----
-
-## 🏆 GitHub Trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=kriti2110&theme=darkhub&no-frame=true&no-bg=true&margin-w=5&column=7" />
-
-</div>
-
----
-
-## 📈 Contribution Graph
-
-<div align="center">
-
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=kriti2110&bg_color=0A3323&color=F7F4D5&line=839958&point=D3968C&area=true&hide_border=true&area_color=105666)](https://github.com/kriti2110)
-
-</div>
-
----
-
-## 🐍 Contribution Snake
+<!-- ═══════════════════ CONTRIBUTION SNAKE ═══════════════════ -->
+<h2 align="center"><code>≫ CONTRIBUTION MATRIX</code></h2>
 
 <div align="center">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/kriti2110/kriti2110/output/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/kriti2110/kriti2110/output/github-contribution-grid-snake.svg" />
-  <img alt="contribution snake" src="https://raw.githubusercontent.com/kriti2110/kriti2110/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/kriti2110/kriti2110/output/github-contribution-grid-snake-dark.svg"/>
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/kriti2110/kriti2110/output/github-contribution-grid-snake.svg"/>
+  <img alt="contribution-matrix-snake" src="https://raw.githubusercontent.com/kriti2110/kriti2110/output/github-contribution-grid-snake-dark.svg"/>
 </picture>
 
 </div>
 
----
+<br/>
 
-## ✦ Featured Project
+<!-- ═══════════════════ PROJECT DASHBOARD ═══════════════════ -->
+<h2 align="center"><code>◈ PROJECT DASHBOARD</code></h2>
 
 <div align="center">
 
-[![Portfolio](https://github-readme-stats.vercel.app/api/pin/?username=kriti2110&repo=kriti2110.github.io&bg_color=0A3323&title_color=F7F4D5&text_color=839958&icon_color=D3968C&hide_border=true)](https://github.com/kriti2110/kriti2110.github.io)
+| &nbsp;&nbsp;PROJECT&nbsp;&nbsp; | &nbsp;&nbsp;DESCRIPTION&nbsp;&nbsp; | TECH STACK | IMPACT |
+|:---|:---|:---|:---:|
+| **⚡ [SolarVerse](https://github.com/kriti2110)** | Solar energy production forecasting using ensemble ML on meteorological data | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![XGBoost](https://img.shields.io/badge/XGBoost-FF6600?style=flat-square) ![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white) ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white) | **`94%` Accuracy** |
+| **🔬 [DualFusion](https://github.com/kriti2110)** | Multi-modal image-text fusion model with cross-attention transformer architecture | ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white) ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white) ![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white) | **Cross-domain SOTA** |
+| **🏥 [NEO SEPSIS](https://github.com/kriti2110)** | Early sepsis detection from clinical time-series data, deployed on AWS | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![Sklearn](https://img.shields.io/badge/Scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-FF9900?style=flat-square&logo=amazonaws&logoColor=white) ![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white) | **`96%` Sensitivity** |
 
 </div>
 
----
+<br/>
+
+<!-- ═══════════════════ SKILL VAULT ═══════════════════ -->
+<h2 align="center"><code>⚙ SKILL VAULT</code></h2>
 
 <div align="center">
 
-**✦ crafted with love, code & too much coffee ✦**
+**`[ CORE ]`** &nbsp; Python · C++
+
+[![Core](https://skillicons.dev/icons?i=python,cpp&theme=dark)](https://skillicons.dev)
 
 <br/>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:839958,50:105666,100:0A3323&height=120&section=footer" />
+**`[ FRAMEWORKS ]`** &nbsp; ML / DL / Web
+
+[![Frameworks](https://skillicons.dev/icons?i=pytorch,tensorflow,sklearn,opencv,flask&theme=dark)](https://skillicons.dev)
+&nbsp;&nbsp;
+![XGBoost](https://img.shields.io/badge/XGBoost-FF6600?style=for-the-badge&logoColor=white)
+
+<br/>
+
+**`[ TOOLS ]`** &nbsp; Cloud · DevOps · IDE
+
+[![Tools](https://skillicons.dev/icons?i=aws,git,github,docker,vscode,linux&theme=dark)](https://skillicons.dev)
+
+</div>
+
+<br/>
+
+<!-- ═══════════════════ TROPHIES ═══════════════════ -->
+<h2 align="center"><code>★ TROPHY SHELF</code></h2>
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=kriti2110&theme=tokyonight&no-frame=true&no-bg=true&margin-w=5&column=6" alt="Trophies"/>
+
+</div>
+
+<br/>
+
+<!-- ═══════════════════ ACTIVITY GRAPH ═══════════════════ -->
+<h2 align="center"><code>📈 ACTIVITY GRAPH</code></h2>
+
+<div align="center">
+
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=kriti2110&bg_color=0d1117&color=58A6FF&line=7ee787&point=58A6FF&area=true&hide_border=true&area_color=0f3460)](https://github.com/kriti2110)
+
+</div>
+
+<br/>
+
+<!-- ═══════════════════ FOOTER ═══════════════════ -->
+<div align="center">
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:533483,50:0f3460,100:0d1117&height=130&section=footer"/>
+
+`// Kriti Raj · AI & ML Engineer · KIIT Bhubaneswar · 2026`
 
 </div>
