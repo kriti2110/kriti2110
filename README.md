@@ -26,10 +26,10 @@
 
 <br/><br/>
 
-<!-- ── CONTRIBUTIONS ONLY (no PRs, no streak) ── -->
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=kriti2110&show_icons=true&hide=prs,issues&hide_border=true&bg_color=0d1117&title_color=39d353&icon_color=39d353&text_color=e6edf3&count_private=true" alt="Contributions"/>
+<!-- ── CONTRIBUTIONS + LANGUAGES ── -->
+<img height="160" src="https://github-readme-stats.vercel.app/api?username=kriti2110&show_icons=true&hide=prs,issues,stars,contribs&hide_border=true&bg_color=0d1117&title_color=39d353&icon_color=39d353&text_color=e6edf3&count_private=true&custom_title=Total+Contributions" alt="Contributions"/>
 &nbsp;
-<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kriti2110&hide_border=true&layout=compact&langs_count=6&bg_color=0d1117&title_color=39d353&text_color=e6edf3" alt="Most Used Languages"/>
+<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kriti2110&hide_border=true&layout=compact&langs_count=6&bg_color=0d1117&title_color=39d353&text_color=e6edf3&exclude_repo=kriti2110.github.io,Portfolio" alt="Most Used Languages"/>
 
 </div>
 
@@ -59,6 +59,7 @@ Currently working on **early disease detection** from clinical time-series data 
 | [**SolarVerse**](https://github.com/kriti2110) | Solar energy production forecasting — XGBoost ensemble on meteorological time-series, Flask REST API backend | 94% prediction accuracy |
 | [**DualFusion**](https://github.com/kriti2110/thyroid-ai-project) | Multi-modal image-text fusion — cross-attention transformer architecture, shared embedding space for cross-domain retrieval | SOTA cross-domain performance |
 | [**NEO SEPSIS**](https://github.com/kriti2110/sepsis-prediction) | Early sepsis detection from clinical time-series — scikit-learn pipeline with SHAP explainability, deployed on AWS via Flask | 96% sensitivity, production-ready |
+| [**Song Popularity Analysis**](https://github.com/kriti2110/song-popularity-analysis) | Predicts Spotify track popularity using XGBoost on 114K tracks — FastAPI backend + interactive web frontend | Binary classification with F1 evaluation |
 
 ---
 
