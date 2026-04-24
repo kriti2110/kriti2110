@@ -51,7 +51,7 @@ Currently working on **early disease detection** from clinical time-series data 
 ---
 
 <div align="center">
-<img src="profile-3d-contrib/profile-night-green.svg" width="100%" alt="3D Contribution Chart"/>
+<img src="profile-3d-contrib/profile-south-season-animate.svg" width="100%" alt="3D Contribution Chart"/>
 </div>
 
 ---
