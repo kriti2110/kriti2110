@@ -34,8 +34,11 @@ jobs:
           def cx(c): return PAD + c * (CELL + GAP)
           def cy(r): return PAD + r * (CELL + GAP)
 
-          # Horizontal path: left→right across each row, top to bottom
-          path = [(c, r) for r in range(ROWS) for c in range(COLS)]
+          # Serpentine path: left→right on even rows, right→left on odd rows
+          path = []
+          for r in range(ROWS):
+              cols = range(COLS) if r % 2 == 0 else range(COLS - 1, -1, -1)
+              path.extend([(c, r) for c in cols])
           N = len(path)  # 371 cells
 
           # Assign each cell a random green shade (seeded for consistency)
