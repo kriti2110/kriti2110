@@ -60,6 +60,8 @@ Currently working on **early disease detection** from clinical time-series data 
 | [**DualFusion**](https://github.com/kriti2110/thyroid-ai-project) | Multi-modal image-text fusion — cross-attention transformer architecture, shared embedding space for cross-domain retrieval | SOTA cross-domain performance |
 | [**NEO SEPSIS**](https://github.com/kriti2110/sepsis-prediction) | Early sepsis detection from clinical time-series — scikit-learn pipeline with SHAP explainability, deployed on AWS via Flask | 96% sensitivity, production-ready |
 | [**Song Popularity Analysis**](https://github.com/kriti2110/song-popularity-analysis) | Predicts Spotify track popularity using XGBoost on 114K tracks — FastAPI backend + interactive web frontend | Binary classification with F1 evaluation |
+| [**Map My Way**](https://github.com/HrshNk-56/SIH-Trip-Tracker) | SIH trip tracker — GPS trajectory analysis, business/leisure classification via logistic regression, OCR expense tracking, Phi-3 Mini chatbot, Go/Echo REST API | Multi-modal AI integration |
+| [**Jurify**](https://github.com/HrshNk-56/Gen-AI-H2S) | AI legal document simplifier — BART model for summarization, sentence-transformers for Q&A chatbot, multi-format upload (PDF, DOCX, TXT), side-by-side comparison | Production-ready NLP pipeline |
 
 ---
 
