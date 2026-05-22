@@ -27,9 +27,9 @@
 <br/><br/>
 
 <!-- ── CONTRIBUTIONS + LANGUAGES ── -->
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=kriti2110&show_icons=true&hide=prs,issues&hide_border=true&bg_color=0d1117&title_color=39d353&icon_color=39d353&text_color=e6edf3&count_private=true" alt="Contributions"/>
+<img height="160" src="https://github-readme-stats.vercel.app/api?username=kriti2110&show_icons=true&hide=prs,issues&hide_border=true&bg_color=0d1117&title_color=39d353&icon_color=39d353&text_color=e6edf3&count_private=true&v=2" alt="Contributions"/>
 &nbsp;
-<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kriti2110&hide_border=true&layout=compact&langs_count=6&bg_color=0d1117&title_color=39d353&text_color=e6edf3&cache_seconds=1" alt="Most Used Languages"/>
+<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kriti2110&hide_border=true&layout=compact&langs_count=6&bg_color=0d1117&title_color=39d353&text_color=e6edf3&v=2" alt="Most Used Languages"/>
 
 </div>
 
@@ -56,6 +56,7 @@ Currently working on **early disease detection** from clinical time-series data 
 
 | Project | What it does | Result |
 |---------|-------------|--------|
+| [**VEKTOR**](https://github.com/kriti2110/vektor) | From-scratch semantic search engine — pure-numpy HNSW index, hybrid dense+sparse retrieval via RRF, cross-encoder reranker, FastAPI + Redis + Prometheus | Sub-50ms p99 target, 1M+ docs, recall@10 ≥ 0.95 vs flat |
 | [**SolarVerse**](https://github.com/kriti2110) | Solar energy production forecasting — XGBoost ensemble on meteorological time-series, Flask REST API backend | 94% prediction accuracy |
 | [**DualFusion**](https://github.com/kriti2110/thyroid-ai-project) | Multi-modal image-text fusion — cross-attention transformer architecture, shared embedding space for cross-domain retrieval | SOTA cross-domain performance |
 | [**NEO SEPSIS**](https://github.com/kriti2110/sepsis-prediction) | Early sepsis detection from clinical time-series — scikit-learn pipeline with SHAP explainability, deployed on AWS via Flask | 96% sensitivity, production-ready |
