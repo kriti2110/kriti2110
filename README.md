@@ -23,6 +23,9 @@
 <!-- ── BADGE ROW 2 ── -->
 <img src="https://img.shields.io/badge/M_EMAIL-3d4451?style=flat-square"/>
 <a href="mailto:kriti.112735@gmail.com"><img src="https://img.shields.io/badge/kriti.112735%40gmail.com-e06c36?style=flat-square"/></a>
+&nbsp;&nbsp;&nbsp;
+<img src="https://img.shields.io/badge/IEEE-3d4451?style=flat-square"/>
+<a href="https://ieeexplore.ieee.org"><img src="https://img.shields.io/badge/Published_2025-e06c36?style=flat-square"/></a>
 
 <br/><br/>
 
@@ -44,11 +47,11 @@
 
 **I build ML systems that deploy to production, not just live in notebooks.**
 
-Currently working on **early disease detection** from clinical time-series data and building **computer vision pipelines** with end-to-end deployment on AWS.
+Currently building **VEKTOR** — a from-scratch semantic search engine with a custom HNSW index, hybrid dense+sparse retrieval, and a self-improving cross-encoder reranker. Also working on **healthcare AI** for early disease detection from clinical time-series data.
 
 - End-to-end ML — from raw data ingestion to production REST API
 - Accuracy without scalability is just a prototype — I build for both
-- B.Tech CSE (AI/ML) @ KIIT · Building systems that actually matter
+- B.Tech CSE (AI/ML) @ KIIT · IEEE-published researcher · 3 industry internships
 
 ---
 
@@ -56,13 +59,14 @@ Currently working on **early disease detection** from clinical time-series data 
 
 | Project | What it does | Result |
 |---------|-------------|--------|
-| [**VEKTOR**](https://github.com/kriti2110/vektor) | From-scratch semantic search engine — pure-numpy HNSW index, hybrid dense+sparse retrieval via RRF, cross-encoder reranker, FastAPI + Redis + Prometheus | Sub-50ms p99 target, 1M+ docs, recall@10 ≥ 0.95 vs flat |
-| [**SolarVerse**](https://github.com/kriti2110) | Solar energy production forecasting — XGBoost ensemble on meteorological time-series, Flask REST API backend | 94% prediction accuracy |
-| [**DualFusion**](https://github.com/kriti2110/thyroid-ai-project) | Multi-modal image-text fusion — cross-attention transformer architecture, shared embedding space for cross-domain retrieval | SOTA cross-domain performance |
-| [**NEO SEPSIS**](https://github.com/kriti2110/sepsis-prediction) | Early sepsis detection from clinical time-series — scikit-learn pipeline with SHAP explainability, deployed on AWS via Flask | 96% sensitivity, production-ready |
-| [**Song Popularity Analysis**](https://github.com/kriti2110/song-popularity-analysis) | Predicts Spotify track popularity using XGBoost on 114K tracks — FastAPI backend + interactive web frontend | Binary classification with F1 evaluation |
+| [**VEKTOR**](https://github.com/kriti2110/vektor) | From-scratch semantic search engine — pure-NumPy HNSW index, hybrid dense+sparse retrieval via RRF, self-improving cross-encoder reranker, async FastAPI + Redis + Prometheus + Docker | Sub-50ms p99 latency, 1M+ docs, recall@10 ≥ 0.95, +8% MRR from reranker |
+| [**NEO SEPSIS**](https://github.com/kriti2110/sepsis-prediction) | Early neonatal sepsis detection from 40K+ NICU time-series (MIMIC-III) — XGBoost + LSTM ensemble, SMOTE for class imbalance, SHAP/LIME per-patient explanations | AUROC **0.921** — comparable to specialist-physician performance |
+| [**DUALFUSION**](https://github.com/kriti2110/thyroid-ai-project) | Thyroid ultrasound segmentation — hybrid CNN–Transformer dual-encoder (Swin-Transformer global attention + ResNet local features + UNet++ decoding), benchmarked on DDTI, TN3K, TGT3 | Dice **0.90**, 92%+ pixel accuracy; outperforms ViT baselines by 7–12% · **IEEE 2025** |
+| [**SOLARVERSE**](https://github.com/kriti2110/vektor) | Real-time solar flare & CME forecasting — 25+ features engineered from live NOAA GOES-16 satellite data (X-ray flux, magnetic field vectors, sunspot indices), multi-horizon XGBoost models | 6h/12h/24h forecasts with automated alerts; Flask REST API on **GCP Cloud Run** |
+| [**Song Popularity**](https://github.com/kriti2110/song-popularity-analysis) | Spotify track popularity classifier on 114K+ tracks — XGBoost on audio features (danceability, tempo, valence, energy) with SMOTE resampling | FastAPI `/predict` endpoint + HTML/JS frontend; F1, AUC-ROC evaluation |
+| [**ClimateVision**](https://github.com/kriti2110/ClimateVision) | Open-source ML platform for satellite-based environmental monitoring — deforestation, ice-melt, and flood detection from Sentinel-2 / Landsat imagery | Python + TypeScript; active open-source contribution |
 | [**Map My Way**](https://github.com/HrshNk-56/SIH-Trip-Tracker) | SIH trip tracker — GPS trajectory analysis, business/leisure classification via logistic regression, OCR expense tracking, Phi-3 Mini chatbot, Go/Echo REST API | Multi-modal AI integration |
-| [**Jurify**](https://github.com/HrshNk-56/Gen-AI-H2S) | AI legal document simplifier — BART model for summarization, sentence-transformers for Q&A chatbot, multi-format upload (PDF, DOCX, TXT), side-by-side comparison | Production-ready NLP pipeline |
+| [**Jurify**](https://github.com/HrshNk-56/Gen-AI-H2S) | AI legal document simplifier — BART summarization, sentence-transformers Q&A chatbot, multi-format upload (PDF, DOCX, TXT), side-by-side comparison | Production-ready NLP pipeline |
 
 ---
 
@@ -72,13 +76,13 @@ Currently working on **early disease detection** from clinical time-series data 
 
 [![Stack](https://skillicons.dev/icons?i=python,pytorch,tensorflow,sklearn,fastapi,flask,opencv&theme=dark)](https://skillicons.dev)
 
-[![Stack](https://skillicons.dev/icons?i=cpp,aws,docker,linux,git,github,vscode&theme=dark)](https://skillicons.dev)
+[![Stack](https://skillicons.dev/icons?i=cpp,gcp,docker,linux,git,github,vscode&theme=dark)](https://skillicons.dev)
 
 </div>
 
 ```
-Computer Vision · XGBoost · Scikit-Learn · OpenCV · Flask · REST APIs
-Deep Learning · NLP · Transformers · AWS EC2 · Pandas · NumPy · Docker
+Computer Vision · XGBoost · Scikit-Learn · OpenCV · Flask · FastAPI · REST APIs
+Deep Learning · NLP · Transformers · GCP Cloud Run · Pandas · NumPy · Docker · Redis
 ```
 
 ---
